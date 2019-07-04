@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@font-face { font-family: "Ionicons"; src: url("../fonts/ionicons.eot?v=2.0.0"); src: url("../fonts/ionicons.eot?v=2.0.0#iefix") format("embedded-opentype"), url("../fonts/ionicons.ttf?v=2.0.0") format("truetype"), url("../fonts/ionicons.woff?v=2.0.0") format("woff"), url("../fonts/ionicons.svg?v=2.0.0#Ionicons") format("svg"); font-weight: normal; font-style: normal; }
+.ion, .ion-heart:before, .ion-social-facebook:before, .ion-social-twitter:before, .ion-social-instagram:before{ display: inline-block; font-family: "Ionicons"; speak: none; font-style: normal; font-weight: normal; font-variant: normal; text-transform: none; text-rendering: auto; line-height: 1; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale; }
+
+.ion-heart:before { content: "\f141"; }
+.ion-social-facebook:before { content: "\f231"; }
+.ion-social-twitter:before { content: "\f243"; }
+.ion-social-instagram:before { content: "\f351"; }

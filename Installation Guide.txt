@@ -1,0 +1,8 @@
+1) Create database       'artgallery'.
+2) Import my database file in it.  Path    Artify/database/artgallery.sql
+3) 
+    Username: - admin
+	Password :- 123456
+
+
+Thank You
